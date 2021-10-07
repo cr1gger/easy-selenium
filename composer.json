@@ -1,0 +1,21 @@
+{
+  "name": "cr1gger/easy-selenium",
+  "description": "Lightweight library for working with PHP Selenium",
+  "type": "library",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "cr1gger",
+      "email": "cesor200@mail.ru"
+    }
+  ],
+  "require": {
+    "php" : ">=7.4",
+    "php-webdriver/webdriver": "^1.11.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "cr1gger\\EasySelenium\\": "src/"
+    }
+  }
+}
