@@ -2,7 +2,6 @@
   "name": "cr1gger/easy-selenium",
   "description": "Lightweight library for working with PHP Selenium",
   "type": "library",
-  "minimum-stability": "dev",
   "authors": [
     {
       "name": "cr1gger",
